@@ -4,6 +4,9 @@ lecture6.iml
 *.class
 /target
 
+# Log file
+log.txt
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
